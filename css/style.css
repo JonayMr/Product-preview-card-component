@@ -37,6 +37,7 @@ body, html {
 .card {
     height: fit-content;
     width: 700px;
+    height: 525px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,7 +50,7 @@ body, html {
 }
 
 .imgPC{
-    width: 350px;
+    height: 100%;
     border-radius: 20px 0 0 20px;
 }
 
