@@ -2,6 +2,6 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome, im JonayMr! 👋
 
 This is my take on the Product preview card component Challenge!
